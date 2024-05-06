@@ -1,4 +1,4 @@
-# 📝 BMI Calculator 📌
+# 🧮 BMI Calculator ⚖️
 
 ## About
 This project is a efficient tool designed to help users easily calculate their Body Mass Index (BMI). With the user-friendly interface, you can swiftly determine BMI values for different individuals. 
